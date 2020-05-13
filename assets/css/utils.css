@@ -1,0 +1,19 @@
+.section-title {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0 auto;
+  font-size: 3em;
+}
+
+.section-title:after {
+  bottom: -7px;
+  background-color: #fff;
+  content: "";
+  height: 3px;
+  position: absolute;
+  width: 160px;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+}
+

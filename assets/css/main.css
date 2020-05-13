@@ -1,6 +1,8 @@
 @import "header.css";
 @import "about.css";
+@import "contact.css";
 @import "footer.css";
+@import "utils.css";
 
 body {
   background-color: #252934;
@@ -13,5 +15,6 @@ body {
   margin: 0 auto;
   max-width: 1200px;
   width: 100%;
+  position: relative;
 }
 

@@ -1,6 +1,11 @@
+.footer {
+  background-color: #1b242f;
+}
 .footer-copyright {
-  text-align: center;
+  color: #8f9aa7;
   padding: 20px 0;
+  text-align: center;
+  vertical-align: bottom;
 }
 
 .footer-heart {

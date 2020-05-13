@@ -1,0 +1,13 @@
+.contact {
+  height: 93vh;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.contact-title {
+  /* font-size: 3em; */
+  /* text-transform: uppercase; */
+  /* margin: 0 auto; */
+}
