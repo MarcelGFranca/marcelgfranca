@@ -1,0 +1,33 @@
+.footer-copyright {
+  text-align: center;
+  padding: 20px 0;
+}
+
+.footer-heart {
+  color: #af111c;
+  animation: heartbeat 1s infinite;
+  display: inline-block;
+  width: 15px;
+  height: 23px;
+}
+
+@keyframes heartbeat {
+  0% {
+    transform: scale(0.75);
+  }
+  20% {
+    transform: scale(1);
+  }
+  40% {
+    transform: scale(0.75);
+  }
+  60% {
+    transform: scale(1);
+  }
+  80% {
+    transform: scale(0.75);
+  }
+  100% {
+    transform: scale(0.75);
+  }
+}
