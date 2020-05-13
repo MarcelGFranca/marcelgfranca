@@ -9,5 +9,17 @@
 .contact-title {
   /* font-size: 3em; */
   /* text-transform: uppercase; */
-  /* margin: 0 auto; */
+  margin: 20px 0;
+}
+
+.contact-invitation {
+  color: #04c2c9;
+  display: block;
+  font-family: Open-Sans, Arial, sans-serif;
+  font-size: 1.25em;
+  margin: 50px 0;
+}
+
+.contact-email {
+  color: #fff;
 }

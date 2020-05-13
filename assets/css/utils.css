@@ -6,7 +6,7 @@
 }
 
 .section-title:after {
-  bottom: -7px;
+  bottom: 150px;
   background-color: #fff;
   content: "";
   height: 3px;
